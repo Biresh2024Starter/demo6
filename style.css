@@ -1,0 +1,30 @@
+#mypic
+{
+    border-radius: 40px;
+    height: 300px;
+    width: 250px;
+}
+hr
+{
+    height:10px;
+    background-color:black;
+}
+.referrals
+{
+    height:30px;
+    width:30px;
+    border-radius: 20px;
+    border-color: black;
+}
+#home
+{
+    background: rgb(92,252,247);
+    background: linear-gradient(53deg, rgba(92,252,247,1) 0%, rgba(198,96,249,1) 0%, rgba(185,116,249,1) 8%, rgba(127,201,248,1) 47%, rgba(124,207,232,1) 63%, rgba(105,243,141,1) 97%, rgba(106,242,160,1) 98%, rgba(109,240,229,1) 100%);
+}
+#about
+{
+    background: rgb(198,96,249);
+    background: linear-gradient(53deg, rgba(198,96,249,1) 0%, rgba(40,238,88,1) 0%, rgba(97,240,197,1) 0%, rgba(56,238,119,1) 0%, rgba(67,238,140,1) 2%, rgba(75,238,155,1) 4%, rgba(80,238,165,1) 6%, rgba(88,239,181,1) 8%, rgba(95,239,194,1) 9%, rgba(100,239,203,1) 11%, rgba(103,239,209,1) 13%, rgba(106,240,216,1) 15%, rgba(107,240,218,1) 16%, rgba(107,240,218,1) 18%, rgba(109,240,221,1) 24%, rgba(109,240,222,1) 30%, rgba(107,240,218,1) 47%, rgba(106,242,160,1) 86%, rgba(105,243,141,1) 97%, rgba(109,240,223,1) 100%);
+    height:600px;
+    align-items:center;
+}
